@@ -17,7 +17,7 @@
   /* close commented backslash hack */
 
 .content{
-    width: 74%;
+    width: 72%;
     height: 100%;
     border: solid 4px black;
     padding: 10px;
@@ -38,6 +38,7 @@ body{
 
 .img_het{
     width: 100%;
+    height: 150px;
     border-bottom: solid black 2px;
     background-color: black;
     border-bottom: 0;
@@ -50,7 +51,7 @@ body{
 }
 
 .sidebar{
-    width: 13%;
+    width: 14%;
     height: 100%;
     background-color: rgba(218, 167, 57, 0.466);
     float: left ;
@@ -64,7 +65,7 @@ body{
 
 .sidebar2{
     
-    width: 13%;
+    width: 14%;
     height: 100%;
     background-color: rgba(218, 167, 57, 0.466);
     float: right ;
@@ -81,6 +82,8 @@ body{
 
 .header{
     background-color: black;
+    width: 100%;
+    height: 100%;
 }
 
 .footer{
@@ -94,7 +97,7 @@ body{
 }
 
 .zbornik{
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 20px;
 }
 
